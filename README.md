@@ -1,6 +1,5 @@
-# Simple bash proxy checker with avrage time #
 
-![Simple bash proxy checker](/img/screenshot.png "Simple bash proxy checker")
+![bash proxy checker](/img/screenshot.png "bash proxy checker")
 ***
 
 ## Proxy format (in text file): ##
