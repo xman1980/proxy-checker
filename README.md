@@ -24,4 +24,13 @@
 ### Example: ###
     $ ./checkProxy.sh -f proxy_sample.txt -m 5 -g good
 
+
+### For quick test use this fast_checkProxy.sh ###
+### Example: ###
+    $ ./fast_checkProxy.sh proxy_sample.txt
+
+### For check random proxy form the list random_checkProxy.sh ###
+### Example: ###
+    $ ./random_checkProxy.sh proxy_sample.txt
+
 ***
